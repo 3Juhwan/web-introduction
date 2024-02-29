@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h3 {
+    color: #333;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+#movie_select {
+    margin-bottom: 20px;
+}
+
+#movie_select label {
+    margin-right: 10px;
+}
+
+#name_input_box {
+    margin-right: 10px;
+}
+
+#submit_btn, button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#guestbook {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+#guestbook p {
+    margin: 5px 0;
+}
